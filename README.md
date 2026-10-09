@@ -108,6 +108,7 @@ Sou apaixonado por tecnologia e pelo que ela torna possível. Gosto de aprender 
 ### 📊 Estatísticas
 
 <p align="center">
+    
   <img
     height="180"
     src="https://github-readme-stats.vercel.app/api?username=NaderCholi&show_icons=true&theme=tokyonight&locale=pt-br&v=2"
